@@ -1,0 +1,22 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Matthew,ace,acebpmet,Bennett's Point (BP),atemp,55.22,78.08,69.7459685863874,70.52,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),atemp,56.3,79.88,70.2752879581152,70.7,NA
+Matthew,noc,nocrcmet,Research Creek (RC),atemp,53.6,82.04,70.8489005235602,71.42,NA
+Matthew,ace,acebpmet,Bennett's Point (BP),bp,28.9392865579967,30.3271911174108,29.9352115370423,30.0318922749823,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),bp,28.673517599811,30.297661233168,29.9020226270032,30.0023623907394,NA
+Matthew,noc,nocrcmet,Research Creek (RC),bp,29.1164658634538,30.297661233168,29.9128450976682,30.0023623907394,NA
+Matthew,ace,acebpmet,Bennett's Point (BP),intensprcp,0,1.60629921259843,0.0795096947960039,0,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),intensprcp,0,1.03937007874016,0.0398235560869028,0,NA
+Matthew,noc,nocrcmet,Research Creek (RC),intensprcp,0,0,0,0,NA
+Matthew,ace,acebpmet,Bennett's Point (BP),maxwspd,0.447388370387861,41.1597300756832,13.5212008799158,11.1847092596965,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),maxwspd,4.02649533349075,70.4636683360881,21.5792666331234,17.0007580747387,NA
+Matthew,noc,nocrcmet,Research Creek (RC),maxwspd,2.68433022232717,47.4231672611133,14.8364289949566,14.0927336672176,NA
+Matthew,ace,acebpmet,Bennett's Point (BP),rh,30,97,77.5846422338569,83,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),rh,32,98,75.9336823734729,81,NA
+Matthew,noc,nocrcmet,Research Creek (RC),rh,35,96,78.5724258289703,86,NA
+Matthew,ace,acebpmet,Bennett's Point (BP),totprcp,0,0.401574803149606,0.019877423699001,0,11.3897637795276
+Matthew,niw,niwolmet,Oyster Landing (OL),totprcp,0,0.259842519685039,0.00995588902172569,0,5.70472440944882
+Matthew,noc,nocrcmet,Research Creek (RC),totprcp,0,0,0,0,0
+Matthew,ace,acebpmet,Bennett's Point (BP),wspd,0.447388370387861,22.369418519393,5.7352378266737,4.69757788907254,NA
+Matthew,niw,niwolmet,Oyster Landing (OL),wspd,2.46063603713324,52.3444393353797,13.9721027715371,10.2899325189208,NA
+Matthew,noc,nocrcmet,Research Creek (RC),wspd,0.894776740775722,17.8955348155144,5.23397546404018,3.80280114829682,NA
